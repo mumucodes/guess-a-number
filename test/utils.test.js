@@ -1,11 +1,11 @@
 // IMPORT MODULES under test here:
 // import { example } from '../example.js';
-
+let guessInput = 
 const test = QUnit.test;
 
 test('time to test a function', (expect) => {
     //Arrange
-    // Set up your arguments and expectations
+    // Set up your arguments and expect ations
     const expected = true;
     
     //Act 

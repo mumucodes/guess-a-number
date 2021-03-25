@@ -117,3 +117,25 @@ footer {
     }
 
   }
+
+  section {
+      background-color: aquamarine;
+
+  }
+
+  input {
+      background-color: blueviolet;
+      padding-bottom: 15px;
+      margin-bottom: 10px;
+      border-color: white;
+      border-width: 5px;
+      border-radius: 35px;
+      color: white;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+      
+  }
+  
+  div {
+      background-color: cornsilk;
+      margin-top: 15px;
+  }
